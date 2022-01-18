@@ -1,0 +1,87 @@
+body {
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: #EAC926;
+}
+
+main {
+    background-color: white;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+h4 {
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.buscar {
+    padding: 5px;
+
+}
+
+.buscar input{
+    width: 240px;
+    height: 40px;
+    padding: 0 20px;
+    font-size: 16px;
+    color: #000;
+    outline: none;
+    border: 2px solid #EAC926;
+    border-radius: 30px;
+}
+
+.lupa {
+    height: 24px;
+    width: 24px;
+    padding: 0 30px;
+}
+
+.lista {
+    color: #000;
+    text-decoration: none;
+    list-style: none;
+}
+
+.one {
+    list-style: none;
+    padding: 0 30px;
+}
+
+.logo {
+    height: 80px;
+}
+
+.carrito {
+    height: 20px;
+    width: 20px;
+}
+
+.perfil {
+    height: 20px;
+    width: 20px;
+}
+
+.ingresa {
+    height: 20px;
+    width: 20px;
+}
+
+section.banner img {
+    width: 100%;
+}
